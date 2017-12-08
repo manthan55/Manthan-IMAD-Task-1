@@ -1,0 +1,18 @@
+{
+  "name": "customerapp",
+  "version": "1.0.0",
+  "description": "Simple Customer Managemanr App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "*",
+    "node-fetch": "^1.7.3"
+  },
+  "author": "Manthan Patidar",
+  "license": "ISC"
+}
