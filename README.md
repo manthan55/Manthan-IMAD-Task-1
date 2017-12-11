@@ -2,9 +2,9 @@
 
 This is the NodeJS-Express (backend) submission for task 1 of HPDF
 
-# Prerequisites
+## Prerequisites
 - NodeJS (any version)
-# Installation
+## Installation
 
 - Clone the repository onto your local machine
 ```sh
@@ -20,7 +20,7 @@ $ cd IMAD-Task-1
 $ npm install
 ```
 
-# Running
+## Running
 
 - Start the app (by default the server listens on port 3000)
 ```sh
