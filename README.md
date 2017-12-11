@@ -19,6 +19,9 @@ $ cd IMAD-Task-1
 ```sh
 $ npm install
 ```
+
+# Running
+
 - Start the app (by default the server listens on port 3000)
 ```sh
 $ node app
